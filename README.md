@@ -7,7 +7,7 @@ A Neovim plugin that adds syntax highlighting within YAML block-scalars powered 
 ## Requirements
 
 - Neovim 0.10+
-- Treesitter v0.10.0 - The master branch and any version after this is not compatible due to the treesitter package being completely rewritten.
+- Treesitter.
 
 ## Installation
 
