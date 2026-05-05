@@ -1,0 +1,2 @@
+-- Intentionally empty: setup() is called by the user in their config.
+-- This file exists so lazy.nvim treats this as a plugin/ directory.
